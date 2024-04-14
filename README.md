@@ -62,6 +62,7 @@ Evergreen relies on API queries to obtain its data, and HTML scraping is not wel
 - LSoft Active Boot Disk
 - Microsoft Azure CLI
 - Microsoft Azure Information Protection UL Client
+- Microsoft Office Deployment Tool
 - Microsoft OpenJDK
 - Microsoft Power BI Desktop
 - Microsoft Power BI Report Builder
@@ -73,7 +74,6 @@ Evergreen relies on API queries to obtain its data, and HTML scraping is not wel
 - Miniconda
 - nmap
 - Npcap
-- Office Deployment Tool
 - Opera
 - OpenVPN Community
 - OpenVPN Connect

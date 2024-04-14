@@ -14,7 +14,7 @@ $Data = Invoke-WebRequest -Uri $DownloadPageUri `
     | ConvertFrom-JSON
 
 New-NeverGreenApp `
-    -Name 'Office Deployment Tool' `
+    -Name 'Microsoft Office Deployment Tool' `
     -Uri $Data.dlcDetailsView.downloadFile.url `
     -Version $Data.dlcDetailsView.downloadFile.Version `
     -Architecture 'Multi' `
